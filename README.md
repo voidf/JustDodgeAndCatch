@@ -28,4 +28,14 @@ Unity 版本：2022.3.42f1c1
 - [DOTween](dotween.demigiant.com)
 - [LBDJS - Tari Ubur Ubur (Hendro Engkeng Remix) (Cut Ver.) (Aakki)](osu.ppy.sh/beatmapsets/1285848#osu/2700362)
 
+玩法演示：https://www.bilibili.com/video/BV1ENXhYxEQz
 
+------
+
+作品编号：`#34`
+
+试玩&投票主页：https://ludost.vercel.app/#/jam/034
+
+玩家投票页：https://ludostudio.feishu.cn/base/LODKb45xsaBkZYs2HxjcMVlsnOg?table=tbl29kS3RjrFdygi&view=vewoiUIlNk
+
+选手投票页：https://ludostudio.feishu.cn/base/KF3nb0OxMauG1JsDKuhcHHZMn9g?table=tbljTM4OOqEiTje5&view=vewoiUIlNk
